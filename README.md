@@ -66,3 +66,36 @@ Cloud & DevOps
 AI Engineering
       =
 Production-ready applications
+| Area      | Focus                                       |
+| --------- | ------------------------------------------- |
+| Backend   | Java, Spring Boot, REST APIs, Microservices |
+| Frontend  | React, JavaScript                           |
+| Databases | MySQL, PostgreSQL                           |
+| Cloud     | AWS                                         |
+| DevOps    | Docker, Kubernetes, Jenkins, CI/CD          |
+| AI        | LLMs, RAG, AI-powered applications          |
+| Tools     | Git, GitHub, IntelliJ IDEA, VS Code         |
+| AI Tools  | Claude AI, Cursor AI                        |
+public class KishorDarkunde {
+
+    String role = "Java Software Engineer";
+
+    String primaryStack =
+        "Java + Spring Boot + React";
+
+    String cloud =
+        "AWS + Docker + Kubernetes";
+
+    String deployment =
+        "Jenkins + CI/CD";
+
+    String aiEngineering =
+        "LLMs + RAG + AI-powered applications";
+
+    String databases =
+        "MySQL + PostgreSQL";
+
+    String developmentMindset =
+        "Build -> Test -> Deploy -> Improve";
+
+}
