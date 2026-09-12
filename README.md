@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Kishor%20Darkunde&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Software%20Engineer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AWS&descAlignY=56&descSize=16" width="100%" alt="Kishor Darkunde" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Kishor%20Darkunde&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Software%20Engineer&descAlignY=55&descSize=20" width="100%" alt="Kishor Darkunde Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=620&height=45&lines=Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+AI-powered+Job+Portal;Docker+%2B+Kubernetes+%2B+Jenkins+CI%2FCD;Exploring+Claude+AI+%26+Cursor+AI" alt="Java | Spring Boot | React | AWS" />
-
-<br />
-
-<a href="https://www.linkedin.com/in/kishor-darkunde">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=0f172a" alt="Open to Work" />
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+AI-Powered+Job+Portals;Docker+%2B+Kubernetes+%2B+Jenkins+CI%2FCD;Exploring+Claude+AI+%26+Cursor+AI"
+    alt="Typing animation"
+  />
 </a>
-<img src="https://komarev.com/ghpvc/?username=kishor3145&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/kishor3145?tab=followers">
-  <img src="https://img.shields.io/github/followers/kishor3145?color=7dd3fc&style=for-the-badge&logo=github&logoColor=black&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />
-</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black" alt="Open to Work"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kishor3145&color=7dd3fc&style=flat-square&label=Profile%20Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/kishor3145?color=7dd3fc&style=flat-square&label=Followers" alt="GitHub Followers"/>
 
 </div>
 
@@ -22,19 +26,26 @@
 
 ```typescript
 const kishorDarkunde = {
+  name: "Kishor Darkunde",
   title: "Java Software Engineer",
-  stack: {
+
+  technologies: {
     languages: ["Java"],
-    frontend:  ["React"],
-    backend:   ["Spring Boot"],
-    infra:     ["Docker", "Kubernetes", "Jenkins"],
-    cloud:     ["AWS"],
+    frontend: ["React"],
+    backend: ["Spring Boot"],
+    infrastructure: ["Docker", "Kubernetes", "Jenkins"],
+    cloud: ["AWS"],
     databases: ["MySQL", "PostgreSQL"],
-    aiTools:   ["Claude AI", "Cursor AI"],
+    aiTools: ["Claude AI", "Cursor AI"],
   },
-  launchedProjects: ["AiJobPortal — AI-based job platform"],
-  status: "Building & shipping full-stack + AI-driven applications",
-  openTo: ["Full-time opportunities", "Java / Full-Stack roles", "Collaborations"],
+
+  featuredProject: "AiJobPortal",
+  status: "Building and shipping full-stack, AI-powered applications",
+  openTo: [
+    "Full-time opportunities",
+    "Java and Full-Stack roles",
+    "Collaborations",
+  ],
 };
 ```
 
@@ -42,60 +53,91 @@ const kishorDarkunde = {
 
 ## Featured Project
 
-### AiJobPortal — AI-Based Job Platform
+### AiJobPortal
 
-<a href="https://github.com/kishor3145/AiJobPortal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishor3145&repo=AiJobPortal&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=86400" alt="AiJobPortal" />
-</a>
-
-| Layer        | Technology                     |
-| :----------- | :----------------------------- |
-| Frontend     | React                          |
-| Backend      | Spring Boot (Java)             |
-| Database     | MySQL / PostgreSQL             |
-| Cloud &amp; Infra | AWS, Docker, Kubernetes   |
-| AI           | Claude AI / Cursor AI assisted |
+An AI-powered job platform built to simplify the job-search and recruitment experience.
 
 <a href="https://ai-job-portal-sandy.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0f172a" alt="Live demo" />
+  <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black" alt="Live Demo"/>
 </a>
 <a href="https://github.com/kishor3145/AiJobPortal">
-  <img src="https://img.shields.io/badge/Source%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=0f172a" alt="Source code" />
+  <img src="https://img.shields.io/badge/Source%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black" alt="Source Code"/>
 </a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kishor3145&repo=AiJobPortal&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="AiJobPortal Repository"/>
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React |
+| Backend | Java, Spring Boot |
+| Database | MySQL, PostgreSQL |
+| Cloud and Infrastructure | AWS, Docker, Kubernetes |
+| AI Tools | Claude AI, Cursor AI |
 
 ---
 
-## Tech Stack
+## Technology Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
+
+### Backend and Infrastructure
+
+<img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,jenkins&theme=dark" alt="Spring Boot, Docker, Kubernetes, Jenkins"/>
+
+### Cloud
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL and PostgreSQL"/>
+
+### AI Tools
+
+<img src="https://img.shields.io/badge/Claude%20AI-7dd3fc?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=black" alt="Claude AI"/>
+<img src="https://img.shields.io/badge/Cursor%20AI-7dd3fc?style=for-the-badge&logo=cursor&logoColor=black&labelColor=black" alt="Cursor AI"/>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-**Languages &amp; Frameworks**
+<img src="https://github-readme-stats.vercel.app/api?username=kishor3145&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" alt="GitHub Statistics" height="165"/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js&theme=dark" alt="Java, Spring, React, HTML, CSS, JavaScript" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor3145&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" height="165"/>
 
-**Infrastructure &amp; Cloud**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git,github&theme=dark" alt="Docker, Kubernetes, Jenkins, AWS, Git, GitHub" />
-
-**Databases &amp; Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,maven,idea,postman,linux&theme=dark" alt="MySQL, PostgreSQL, Maven, IntelliJ IDEA, Postman, Linux" />
-
-**AI-Assisted Development**
-
-<img src="https://img.shields.io/badge/Claude%20AI-7dd3fc?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=0f172a" alt="Claude AI" />
-<img src="https://img.shields.io/badge/Cursor%20AI-7dd3fc?style=for-the-badge&logoColor=black&labelColor=0f172a" alt="Cursor AI" />
+<img src="https://streak-stats.demolab.com?user=kishor3145&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishor3145&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&hide_border=false&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor3145&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&langs_count=8&cache_seconds=86400" height="170" alt="Top languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=kishor3145&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor3145&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
@@ -106,15 +148,19 @@ const kishorDarkunde = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kishor-darkunde">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:kishordarkunde4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black" alt="Email"/>
 </a>
+
 <a href="https://kishor-portfolio-c9908.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0f172a" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=black" alt="Portfolio"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=110&section=footer" width="100%" alt="" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
